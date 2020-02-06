@@ -51,6 +51,7 @@ the value that is printed is truncated 6 places after the decimal point. i.e. 0.
 ```
 
 `-f`, `-from`, `-len` are required
+
 accepts one of: `-print_col_type`, `-print_col_idx`, `-is_missing_idx`
 
 EXAMPLE: 
